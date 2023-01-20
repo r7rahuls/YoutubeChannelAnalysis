@@ -3,4 +3,4 @@ pandas==1.5.2
 requests==2.28.1
 streamlit==1.15.2
 streamlit-lottie==0.0.3
-numpy == 
+numpy==1.23.5
