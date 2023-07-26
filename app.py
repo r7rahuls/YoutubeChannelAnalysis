@@ -188,7 +188,7 @@ def main():
             st.write('Most Liked Video, Most Engaging Video, Least Viewed Video etc.')
             st.write('')
             # Add a link to the source code and the name of the creator
-            st.write('View [source code](https://github.com/r7rahuls/CropRecommender_jupyterNotebook.git)')
+            st.write('View [source code](https://github.com/r7rahuls/YoutubeChannelAnalysis)')
             st.write("This Project was created by [Rahul Singh](https://www.linkedin.com/in/r7rahuls)")
             st.write('')
             st.write('')
